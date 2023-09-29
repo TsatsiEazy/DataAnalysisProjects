@@ -1,0 +1,19 @@
+Clinic/Hospital Data 
+- Clinic has gotten several complaints regarding the long wait times
+- Our task is to analysis, hypothesis and then create a data driven story on the overall wait time.
+
+Management has the follwoing questions on the wait time:
+- is there a short staffing issue?
+- are the complaints legitmate?
+- are we too busy?
+- is it a certain type of patient?
+
+Insights to establish
+- Hospital goals: reduce wait times
+- Metrics of success/failure: wait times
+- Trends to examine: time of day/week that causes increase in wait times 
+- How to solve trend: is it a staffing issue?
+
+Weapons of choice
+- Excel
+- Power Point for presentation of findings
